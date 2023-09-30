@@ -1,4 +1,4 @@
-Hi 👋 My name is Christine Duong
+Hi 👋 I'm Christine
 ================================
 
 Software Engineer
